@@ -1,0 +1,20 @@
+{
+  "name": "gimmethat.space",
+  "description": "I need some space.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://gimmiethat.space",
+  "author": {
+    "name": "Eric Bailey",
+    "email": "eric.w.bailey@gmail.com",
+    "url": "http://ericwbailey.design"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericwbailey/gimmiethat.space"
+  },
+  "bugs": {
+    "url": "https://github.com/ericwbailey/gimmiethat.space/issues",
+    "email": "eric.w.bailey@gmail.com"
+  }
+}
